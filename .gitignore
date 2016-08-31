@@ -1,0 +1,7 @@
+# IDE
+/spark-scala.iml
+/.idea/
+
+# ARTIFACT
+/dependency-reduced-pom.xml
+/target/
